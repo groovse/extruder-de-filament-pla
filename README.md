@@ -100,18 +100,9 @@ But : améliorer la traçabilité et, à plus long terme, permettre une exploita
 
 ---
 
-## 7) Structure du dépôt (suggestion)
-
-- `docs/` : photos, schémas blocs, procédures, notes d’essais
-- `mechanical/` : CAO bobineuse, guide-fil, intégration châssis
-- `electrical/` : schémas, câblage, BOM, alimentation centralisée
-- `software/`
-  - `rpi/` : acquisition caméra, traitement image, IHM, logs
-- `tests/` : protocoles (calibration diamètre, essais traction, etc.)
-
 ---
 
-## 8) Sécurité (prototype)
+## 7) Sécurité (prototype)
 
 - Zones chaudes (extrusion) : brûlures
 - Parties mobiles (bobineuse) : pincements/arrachement
