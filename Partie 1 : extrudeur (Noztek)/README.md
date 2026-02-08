@@ -1,4 +1,4 @@
-### 📄 Noztek Pro — Problématiques rencontrées & modifications apportées
+<img width="752" height="561" alt="{0012DB52-219A-43E0-88F8-9B4413C1E524}" src="https://github.com/user-attachments/assets/69842dc4-720f-4987-b49a-c5ff7f3ed940" />### 📄 Noztek Pro — Problématiques rencontrées & modifications apportées
 
 Ce document décrit les principales **difficultés rencontrées** lors de l’utilisation de la **Noztek Pro** (extrudeuse semi-automatique) dans le cadre du projet **ReFilament**, ainsi que les **correctifs mécaniques et électriques** mis en place pour fiabiliser l’alimentation en matière et préparer une intégration plus “machine” (coffret + pupitre opérateur).
 
@@ -7,6 +7,7 @@ Ce document décrit les principales **difficultés rencontrées** lors de l’ut
 ## 1) Rappel du fonctionnement de la Noztek Pro
 
 La Noztek Pro est une machine semi-automatique avec un **pupitre (front panel)** très simple. On y retrouve typiquement **3 interrupteurs** :
+<img width="752" height="561" alt="{0012DB52-219A-43E0-88F8-9B4413C1E524}" src="https://github.com/user-attachments/assets/54b93947-0ac6-4279-9864-ef0e330eedfe" />
 
 1. **Ventilation / refroidissement filament**  
    Active un ventilateur permettant de refroidir le filament à la sortie.
