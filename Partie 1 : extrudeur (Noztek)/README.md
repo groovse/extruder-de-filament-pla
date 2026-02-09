@@ -41,12 +41,14 @@ Formation de **ponts de matière (bridging)** :
 ---
 
 ## 3) Solution mise en place : agitateur anti-pont (anti-bridging)
+![1000059753](https://github.com/user-attachments/assets/0fa7d81f-9528-4485-a0b4-bb7facc0dfec)
 
 Pour supprimer la formation de ponts, nous avons ajouté :
 
 - un **moteur pas à pas** positionné au-dessus de la zone d’alimentation,
 - un **bras / agitateur** mécanique qui tourne dans les copeaux,
 - l’agitateur casse les voûtes et **force l’écoulement** du PLA vers la vis.
+![1000059751](https://github.com/user-attachments/assets/f4e307ee-6009-40c0-89bf-ba80ea8b2eaa)
 
 ### Choix de commande
 - Ce moteur **ne nécessite pas** de régulation fine.
@@ -55,6 +57,7 @@ Pour supprimer la formation de ponts, nous avons ajouté :
 ---
 
 ## 4) Contraintes électriques & intégration 24 V
+![20260209_143922](https://github.com/user-attachments/assets/7aee5720-5de1-4a84-8424-aa9e71d858d7)
 
 ### Architecture actuelle
 - Les fonctions de commande (ventilation, vis, chauffe, etc.) reposent sur une logique d’alimentation en **24 V**.
