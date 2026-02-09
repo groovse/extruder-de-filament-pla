@@ -12,6 +12,7 @@ Cette approche vise à :
 ---
 
 ##  Matériel utilisé
+<img width="864" height="1000" alt="image" src="https://github.com/user-attachments/assets/da413b90-6e9c-4090-832a-599bd835cdbd" />
 
 ### Microscope numérique
 
