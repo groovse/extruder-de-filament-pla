@@ -98,11 +98,3 @@ Avec l’ajout de l’agitateur anti-pont + une intégration électrique/pupitre
   - câblage maintenance-friendly.
 
 ---
-
-## 7) À compléter (optionnel)
-
-- Photos de la trémie avant/après
-- Schéma mécanique de l’agitateur
-- Schéma électrique (24 V : protections, distribution, repérage)
-- Liste des composants (moteur, driver, alimentation, fixation)
-- Procédure opérateur (mise en route : chauffe → vis → agitateur → ventilation, etc.)
