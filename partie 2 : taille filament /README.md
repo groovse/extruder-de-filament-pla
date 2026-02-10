@@ -1,6 +1,6 @@
-# 📏 Contrôle du diamètre du filament PLA
+#  Contrôle du diamètre du filament PLA
 
-## 🎯 Objectif
+##  Objectif
 
 L’objectif de ce projet est d’obtenir un **filament PLA utilisable en impression 3D** avec un **diamètre nominal de 1,75 mm**.  
 Le filament produit est destiné à des **impressions de type brouillon / prototypes**, ce qui implique des exigences de qualité raisonnables mais maîtrisées.
@@ -13,9 +13,9 @@ Le filament produit est destiné à des **impressions de type brouillon / protot
 
 ---
 
-## 🧪 Solutions de mesure testées
+##  Solutions de mesure testées
 
-### 1️⃣ Capteur optique type *Shadow* (laser + luminosité) — ❌ Abandonné
+###  Capteur optique type *Shadow* (laser + luminosité) —  Abandonné
 
 **Principe :**
 - Un laser passe devant le filament.
@@ -31,11 +31,11 @@ Le filament produit est destiné à des **impressions de type brouillon / protot
 - Précision insuffisante
 - Manque de robustesse
 - Solution non exploitable pour une installation propre  
-➡️ **Solution abandonnée rapidement**
+   **Solution abandonnée rapidement**
 
 ---
 
-### 2️⃣ Palpeur mécanique + capteur à effet Hall — ❌ Abandonné
+###  Palpeur mécanique + capteur à effet Hall —  Abandonné
 
 **Principe :**
 - Le filament déforme un palpeur mécanique.
@@ -57,11 +57,11 @@ Le filament produit est destiné à des **impressions de type brouillon / protot
 **Conclusion :**
 - Instabilité mécanique
 - Précision non acceptable pour un contrôle fiable  
-➡️ **Solution abandonnée**
+   **Solution abandonnée**
 
 ---
 
-### 3️⃣ Métrologie optique par caméra (solution retenue) ✅
+###  Métrologie optique par caméra (solution retenue) 
 
 **Principe :**
 - Utilisation d’une caméra type microscope optique.
@@ -82,11 +82,11 @@ Le filament produit est destiné à des **impressions de type brouillon / protot
 - Solution évolutive (IHM, régulation, enregistrement des données).
 
 **Conclusion :**
-➡️ **Solution la plus précise et la plus fiable**, actuellement exploitée dans le projet.
+ **Solution la plus précise et la plus fiable**, actuellement exploitée dans le projet.
 
 ---
 
-## ✅ Conclusion générale
+##  Conclusion générale
 
 Après plusieurs essais, la **métrologie optique par caméra** est la seule solution répondant aux contraintes du projet :
 
